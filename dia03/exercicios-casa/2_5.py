@@ -1,3 +1,5 @@
+# %%
+
 lista = [120, "Python", 120.01, "asw", False, [10,20]]
 
 
@@ -12,3 +14,10 @@ z = lista[1]
 for i in z:
     if i == "n":
         print(i)
+
+# %% ou
+        
+z = lista[1]
+
+z[-1]
+# %%

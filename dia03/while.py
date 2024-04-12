@@ -15,6 +15,7 @@ while True:
 
     elif senha == "iurao":
         print('quase...')
+        #! o continue ignora todo o resto do codigo e volta para o começo dnv
         continue
 
     print("iure")
